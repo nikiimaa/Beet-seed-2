@@ -1,1 +1,10 @@
-# Beet-seed-2
+1.Test 
+cases-https://docs.google.com/document/d/1PkPwhVIPtrB53tQysEI36-x2IC3uec70GjuMyDoKi0g/edit?usp=sharing
+2.Bug 
+reports-https://docs.google.com/document/d/1MtVpGDtPgpmO8prC1VoKnaNDsP1GdXbUChPCwHB0MI0/edit?usp=sharing
+3.Test 
+cases-https://docs.google.com/document/d/1DB8awrH47HTFP2BzhWyXObxGFdZl7lM2hU8E-xOWs-g/edit?usp=sharing
+4.Test 
+cases-https://docs.google.com/document/d/1Jii2xWBTkWmrvZSndzo06uzfP0podabqv0gVHC7WjaY/edit?usp=sharing
+5.Test 
+cases-https://docs.google.com/document/d/1abbcondRIRVNHaUZl1dJo6wYlC_bufAYvfE2laHHUs4/edit?usp=sharing 
